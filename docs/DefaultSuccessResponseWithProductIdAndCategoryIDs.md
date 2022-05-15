@@ -1,0 +1,15 @@
+# DefaultSuccessResponseWithProductIdAndCategoryIDs
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**Code** | **int64** |  | [optional] [default to null]
+**Status** | **string** |  | [optional] [default to null]
+**Action** | **string** |  | [optional] [default to null]
+**Resource** | **string** |  | [optional] [default to null]
+**ProductId** | **int64** |  | [optional] [default to null]
+**OldCategoryId** | **int64** |  | [optional] [default to null]
+**NewCategoryId** | **int64** |  | [optional] [default to null]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
